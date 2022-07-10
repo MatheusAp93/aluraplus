@@ -153,7 +153,7 @@ body {
 
 .container__botao:active{
     color: var(--branco-principal);
-    background-color: grey;
+    background-color: orangered;
     
 
 }
